@@ -425,7 +425,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@K-kumargaurav](https://github.com/K-kumargaurav)
-- LinkedIn: [Kumar Gaurav](www.linkedin.com/in/k-kumargaurav)
+- LinkedIn: [Kumar Gaurav](https://linkedin.com/in/k-kumargaurav)
 - Email: kumargaurav74930@gmai.com
 
 ## 🙏 Acknowledgments
